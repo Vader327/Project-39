@@ -1,2 +1,2 @@
-# synchronousBallMovement
-Ball moving synchronously
+# Hoizontal Hurdles
+An obstacle-dodging Runner game!
